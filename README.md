@@ -1,9 +1,9 @@
-# Bravo
+# Delta
 
 | Nombre           | Alias   | Ubicación |
 | ---------------- | ------- | --------- |
-| Dangelo González | Alfa    | Venezuela |
+| Dylan Mecia      | Alfa    | Venezuela |
 | David Urdaneta   | Bravo   | Venezuela |
 | Oriana Rondón    | Charlie | Venezuela |
 | Hermes Bravo     | Delta   | Venezuela |
-|                  | Echo    | Venezuela |
+| Dangelo González | Echo    | Venezuela |
