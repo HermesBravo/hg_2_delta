@@ -1,13 +1,9 @@
-# Tipo de usuario
-- [ ] Alfa
-- [ ] Bravo 
-- [ ] Charlie
-- [ ] Delta
-- [ ] Echo
+# Bravo
 
-# Seleccione el tipo de actividad
-- [ ] Feature
-- [ ] Hotfix
-- [ ] Refactor
-- [ ] Performance
-- [ ] Testing
+| Nombre           | Alias   | Ubicación |
+| ---------------- | ------- | --------- |
+| Dangelo González | Alfa    | Venezuela |
+| David Urdaneta   | Bravo   | Venezuela |
+| Oriana Rondón    | Charlie | Venezuela |
+| Hermes Bravo     | Delta   | Venezuela |
+|                  | Echo    | Venezuela |
