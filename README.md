@@ -1,4 +1,4 @@
-# Bravo
+# Delta
 
 | Nombre           | Alias   | Ubicación |
 | ---------------- | ------- | --------- |
